@@ -53,3 +53,7 @@ input:invalid {
   background-color: seagreen;
   color: white;
 }
+
+#gallery h2 {
+  letter-spacing: 2px;
+}

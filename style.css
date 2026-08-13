@@ -57,3 +57,7 @@ input:invalid {
 #gallery h2 {
   letter-spacing: 2px;
 }
+
+.photo {
+    width: 375px;
+}
